@@ -1,0 +1,24 @@
+<div class="movie">
+  <img src="images/g20.jpg" alt="G20">
+  <h3>G20</h3>
+</div>
+
+<div class="movie">
+  <img src="images/a-working-man.jpg" alt="A Working Man">
+  <h3>A Working Man</h3>
+</div>
+
+<div class="movie">
+  <img src="images/exeterritorial.jpg" alt="EXETORRITORIAL">
+  <h3>EXETORRITORIAL</h3>
+</div>
+
+<div class="movie">
+  <img src="images/londan-has-fallen.jpg" alt="Londan Has Fallen">
+  <h3>Londan Has Fallen</h3>
+</div>
+
+<div class="movie">
+  <img src="images/purple-hearts.jpg" alt="Purple Hearts">
+  <h3>Purple Hearts</h3>
+</div>
